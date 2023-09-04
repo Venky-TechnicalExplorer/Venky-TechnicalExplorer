@@ -39,9 +39,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-<p>
-  <img align="center" src="https://github.com/Venky-Madineni/Home/blob/main/Pictures/Screenshot%202023-06-01%20125050.png)" alt="BigData" width="400" height="400"/>
-</p>
+
+  <img align="center" src="https://github.com/Venky-Madineni/Home/blob/main/Pictures/Screenshot%202023-06-01%20125050.png" alt="BigData" width="400" height="400"/>
+
 
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Venky-Madineni&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
