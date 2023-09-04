@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/venkateswarlu22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadeeshwaran-m-0a8294176" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/venkateswarlu22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Venky-Madineni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,7 +54,7 @@
   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Venky-Madineni&label=Profile%20views&color=0e75b6&style=flat" alt="Venky's Profile Views"> •  
-  <a href="https://user-badge.committers.top/india_private/Venky-Madineni"><img src="https://user-badge.committers.top/india_private/JagadeeshwaranM.svg"></a> •
+  <a href="https://user-badge.committers.top/united_states/Venky-Madineni"><img src="https://user-badge.committers.top/united_states/Venky-Madineni.svg"></a> •
   <img src="https://img.shields.io/github/followers/Venky-Madineni?label=Followers&style=social" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜"> •
   <img src="https://img.shields.io/github/stars/Venky-Madineni?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛"> •
 </p>
