@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkateswarlu Madineni </h1>
+<h1 align="center">Hi 👋, I'm Venky </h1>
 <h3 align="center">A passionate Data Engineer</h3>
 
 <img align="right"  src="https://github.com/Venky-Madineni/Home/blob/main/Pictures/Data%20Engineer.png" alt="Data Engineer" width="400" height="400">
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vmadineni1992/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Venky-Madineni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Venky-Madineni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
