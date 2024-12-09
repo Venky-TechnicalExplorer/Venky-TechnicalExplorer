@@ -17,7 +17,7 @@
  
      Any Data Engineering projects
 
- 📫 For reaching out **vmadineni1992@gmail.com**
+ 📫 For reaching out **######@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
