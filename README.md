@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/" target="blank"/a>
+<a href="https://www.linkedin.com/in/venkateswarlu-m/" target="blank"><img align="center" src="https://github.com/Venky-TechnicalExplorer/files/blob/main/linked-in-alt.svg" alt="Venky-Madineni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
