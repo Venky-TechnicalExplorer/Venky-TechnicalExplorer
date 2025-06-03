@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venky </h1>
+<h1 align="center">Hi 👋, I'm Venkat </h1>
 <h3 align="center">A passionate Data Engineer</h3>
 
 <img align="right"  src="https://github.com/Venky-Madineni/Home/blob/main/Pictures/Data%20Engineer.png" alt="Data Engineer" width="400" height="400">
