@@ -18,6 +18,11 @@
      Any Data Engineering projects
 
  📫 For reaching out **######@gmail.com**
+<h3 align="left">Certifications:</h3>
+<h4 align="left"> => AWS Certified Data Analytics - Specialty </h4>
+<p align="left">
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/331d79eae092409d9605ecd9c945b37c" target="blank"><img align="center" src="https://github.com/Venky-TechnicalExplorer/files/blob/main/AWS-Certified-Data-Analytics-Speciality.png" alt="Venky-Madineni" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
